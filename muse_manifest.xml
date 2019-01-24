@@ -1,0 +1,306 @@
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="promecoresource.ru" resolutions="1x,2x" timestamp="1490604734847">
+  <folder name="css">
+    <file name="site_global.css" crc="3994392479"/>
+    <file name="master_a-master.css" crc="7711920" ref="engineer:siberian-entc:cir-2:progress-energo:meridian-energo-2:news:cir-1:standarts:energoaudit:projects:clients:rn-energo:project:contacts:ice-povolgye:preproject:about:cir-mei:index:omk-project:meridian-energo-1:development:service:torin:research"/>
+    <file name="master_-design-by.css" crc="453300705" ref="index"/>
+    <file name="engineer.css" crc="397285421" ref="engineer"/>
+    <file name="siberian-entc.css" crc="4173718905" ref="siberian-entc"/>
+    <file name="cir-2.css" crc="190884006" ref="cir-2"/>
+    <file name="progress-energo.css" crc="4226007933" ref="progress-energo"/>
+    <file name="meridian-energo-2.css" crc="462533392" ref="meridian-energo-2"/>
+    <file name="news.css" crc="101273478" ref="news"/>
+    <file name="cir-1.css" crc="177283587" ref="cir-1"/>
+    <file name="standarts.css" crc="476810619" ref="standarts"/>
+    <file name="energoaudit.css" crc="4104737805" ref="energoaudit"/>
+    <file name="projects.css" crc="4135663205" ref="projects"/>
+    <file name="clients.css" crc="3964364777" ref="clients"/>
+    <file name="rn-energo.css" crc="3944805402" ref="rn-energo"/>
+    <file name="project.css" crc="4135515922" ref="project"/>
+    <file name="contacts.css" crc="4276154206" ref="contacts"/>
+    <file name="ice-povolgye.css" crc="4188742073" ref="ice-povolgye"/>
+    <file name="preproject.css" crc="4210130175" ref="preproject"/>
+    <file name="about.css" crc="3885101365" ref="about"/>
+    <file name="cir-mei.css" crc="236837263" ref="cir-mei"/>
+    <file name="index.css" crc="86071890" ref="index"/>
+    <file name="omk-project.css" crc="258562534" ref="omk-project"/>
+    <file name="meridian-energo-1.css" crc="4201141428" ref="meridian-energo-1"/>
+    <file name="development.css" crc="256815634" ref="development"/>
+    <file name="service.css" crc="161347537" ref="service"/>
+    <file name="torin.css" crc="4120591470" ref="torin"/>
+    <file name="research.css" crc="4246540850" ref="research"/>
+  </folder>
+  <folder name="assets">
+    <file name="certificate-cpo.pdf" crc="527740952" seo="true" mt="1453737117000"/>
+    <file name="perpoles.mp4" crc="406903197" seo="true" mt="1454475909000"/>
+    <file name="perpoles.webm" crc="3816232093" seo="true" mt="1454476823000"/>
+    <file name="perpoles.ogv" crc="3823481760" seo="true" mt="1454476724000"/>
+    <file name="perpoles.jpg" crc="57854739" seo="true" mt="1454477484000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:news:service:clients:contacts:projects:rn-energo:siberian-entc:progress-energo:omk-project:ice-povolgye:cir-mei:cir-1:cir-2:torin:meridian-energo-1:meridian-energo-2:research:standarts:energoaudit:development:engineer:preproject:project"/>
+    <file name="museutils.js" crc="4232573551" ref="index:about:news:service:clients:contacts:projects:rn-energo:siberian-entc:progress-energo:omk-project:ice-povolgye:cir-mei:cir-1:cir-2:torin:meridian-energo-1:meridian-energo-2:research:standarts:energoaudit:development:engineer:preproject:project"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:news:service:clients:contacts:projects:rn-energo:siberian-entc:progress-energo:omk-project:ice-povolgye:cir-mei:cir-1:cir-2:torin:meridian-energo-1:meridian-energo-2:research:standarts:energoaudit:development:engineer:preproject:project"/>
+    <file name="museconfig.js" crc="3849126041" ref="index:about:news:service:clients:contacts:projects:rn-energo:siberian-entc:progress-energo:omk-project:ice-povolgye:cir-mei:cir-1:cir-2:torin:meridian-energo-1:meridian-energo-2:research:standarts:energoaudit:development:engineer:preproject:project"/>
+    <file name="jquery.musemenu.js" crc="38860304" ref="index:about:news:service:clients:contacts:projects:rn-energo:siberian-entc:progress-energo:omk-project:ice-povolgye:cir-mei:cir-1:cir-2:torin:meridian-energo-1:meridian-energo-2:research:standarts:energoaudit:development:engineer:preproject:project"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:about:news:service:clients:contacts:projects:rn-energo:siberian-entc:progress-energo:omk-project:ice-povolgye:cir-mei:cir-1:cir-2:torin:meridian-energo-1:meridian-energo-2:research:standarts:energoaudit:development:engineer:preproject:project"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:news:service:clients:contacts:projects:rn-energo:siberian-entc:progress-energo:omk-project:ice-povolgye:cir-mei:cir-1:cir-2:torin:meridian-energo-1:meridian-energo-2:research:standarts:energoaudit:development:engineer:preproject:project"/>
+    <file name="require.js" crc="4234670167" ref="index:about:news:service:clients:contacts:projects:rn-energo:siberian-entc:progress-energo:omk-project:ice-povolgye:cir-mei:cir-1:cir-2:torin:meridian-energo-1:meridian-energo-2:research:standarts:energoaudit:development:engineer:preproject:project"/>
+  </folder>
+  <folder name="images">
+    <file name="pasted-svg-212598x251.svg" crc="3778806138" seo="true" ref="index:about:news:service:clients:contacts:projects:rn-energo:siberian-entc:progress-energo:omk-project:ice-povolgye:cir-mei:cir-1:cir-2:torin:meridian-energo-1:meridian-energo-2:research:standarts:energoaudit:development:engineer:preproject:project">
+      <caption webpage="projects" alt=""/>
+      <caption webpage="standarts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="engineer" alt=""/>
+      <caption webpage="meridian-energo-2" alt=""/>
+      <caption webpage="torin" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="omk-project" alt=""/>
+      <caption webpage="energoaudit" alt=""/>
+      <caption webpage="service" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="research" alt=""/>
+      <caption webpage="rn-energo" alt=""/>
+      <caption webpage="cir-mei" alt=""/>
+      <caption webpage="siberian-entc" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="preproject" alt=""/>
+      <caption webpage="meridian-energo-1" alt=""/>
+      <caption webpage="cir-2" alt=""/>
+      <caption webpage="development" alt=""/>
+      <caption webpage="cir-1" alt=""/>
+      <caption webpage="clients" alt=""/>
+      <caption webpage="ice-povolgye" alt=""/>
+      <caption webpage="progress-energo" alt=""/>
+    </file>
+    <file name="pasted svg 212598x251_poster_.png" crc="129600340" ref="index"/>
+    <file name="news-8294x150.jpg" crc="4015481506" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="news-8294x150_2x.jpg" crc="370079284" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="news-7293x196.jpg" crc="4107268784" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="news-7293x196_2x.jpg" crc="11421814" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="news-6295x196.jpg" crc="136814852" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="news-6295x196_2x.jpg" crc="352592684" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="background-red.jpg" crc="13875323" ref="about:service:clients:rn-energo:siberian-entc:progress-energo:omk-project:ice-povolgye:cir-mei:cir-1:cir-2:torin:meridian-energo-1:meridian-energo-2:energoaudit:preproject">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="background-red_2x.jpg" crc="2532851" ref="about:service:clients:rn-energo:siberian-entc:progress-energo:omk-project:ice-povolgye:cir-mei:cir-1:cir-2:torin:meridian-energo-1:meridian-energo-2:energoaudit:preproject">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="lightning.png" crc="264369494" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="lightning_2x.png" crc="4148442775" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="pasted-svg-110658x91.svg" crc="4241810738" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="pasted svg 110658x91_poster_.png" crc="458344377" ref="about"/>
+    <file name="cerificate-cpo.jpg" crc="361767079" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="cerificate-cpo_2x.jpg" crc="3884856207" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="news-8.jpg" crc="310211467" seo="true" ref="news">
+      <caption webpage="news" alt=""/>
+    </file>
+    <file name="news-8_2x.jpg" crc="3812949462" seo="true" ref="news">
+      <caption webpage="news" alt=""/>
+    </file>
+    <file name="news-7.jpg" crc="3906450960" seo="true" ref="news">
+      <caption webpage="news" alt=""/>
+    </file>
+    <file name="news-7_2x.jpg" crc="3932058136" seo="true" ref="news">
+      <caption webpage="news" alt=""/>
+    </file>
+    <file name="news-6.jpg" crc="260521109" seo="true" ref="news">
+      <caption webpage="news" alt=""/>
+    </file>
+    <file name="news-6_2x.jpg" crc="505254477" seo="true" ref="news">
+      <caption webpage="news" alt=""/>
+    </file>
+    <file name="news-5.jpg" crc="476812307" seo="true" ref="news">
+      <caption webpage="news" alt=""/>
+    </file>
+    <file name="news-5_2x.jpg" crc="472587937" seo="true" ref="news">
+      <caption webpage="news" alt=""/>
+    </file>
+    <file name="news-4.jpg" crc="427177221" seo="true" ref="news">
+      <caption webpage="news" alt=""/>
+    </file>
+    <file name="news-4_2x.jpg" crc="280743263" seo="true" ref="news">
+      <caption webpage="news" alt=""/>
+    </file>
+    <file name="pasted image 1065x712.jpg" crc="483424456" seo="true" ref="news">
+      <caption webpage="news" alt=""/>
+    </file>
+    <file name="news-2.jpg" crc="3914188341" seo="true" ref="news">
+      <caption webpage="news" alt=""/>
+    </file>
+    <file name="news-2_2x.jpg" crc="18110587" seo="true" ref="news">
+      <caption webpage="news" alt=""/>
+    </file>
+    <file name="news-1.jpg" crc="4208154554" seo="true" ref="news">
+      <caption webpage="news" alt=""/>
+    </file>
+    <file name="news-1_2x.jpg" crc="4209150663" seo="true" ref="news">
+      <caption webpage="news" alt=""/>
+    </file>
+    <file name="news-0.jpg" crc="525863396" seo="true" ref="news">
+      <caption webpage="news" alt=""/>
+    </file>
+    <file name="news-0_2x.jpg" crc="3882463796" seo="true" ref="news">
+      <caption webpage="news" alt=""/>
+    </file>
+    <file name="background-beige.jpg" crc="4026070543" ref="service:clients:contacts:standarts:project">
+      <caption webpage="service" alt=""/>
+    </file>
+    <file name="background-beige_2x.jpg" crc="4235060692" ref="service:clients:contacts:standarts:project">
+      <caption webpage="service" alt=""/>
+    </file>
+    <file name="pasted-svg-126839x214.svg" crc="438098071" seo="true" ref="service:project">
+      <caption webpage="project" alt=""/>
+      <caption webpage="service" alt=""/>
+    </file>
+    <file name="pasted svg 126839x214_poster_.png" crc="259864387" ref="service"/>
+    <file name="pasted-svg-191484x214.svg" crc="290894365" seo="true" ref="service:preproject">
+      <caption webpage="preproject" alt=""/>
+      <caption webpage="service" alt=""/>
+    </file>
+    <file name="pasted svg 191484x214_poster_.png" crc="4071244615" ref="service"/>
+    <file name="background-grey.jpg" crc="464757444" ref="service:engineer">
+      <caption webpage="service" alt=""/>
+    </file>
+    <file name="background-grey_2x.jpg" crc="3933220455" ref="service:engineer">
+      <caption webpage="service" alt=""/>
+    </file>
+    <file name="pasted-svg-21826x226.svg" crc="210392404" seo="true" ref="service:engineer">
+      <caption webpage="engineer" alt=""/>
+      <caption webpage="service" alt=""/>
+    </file>
+    <file name="pasted svg 21826x226_poster_.png" crc="3785136019" ref="service"/>
+    <file name="pasted-svg-109469x218.svg" crc="15303181" seo="true" ref="service:development">
+      <caption webpage="development" alt=""/>
+      <caption webpage="service" alt=""/>
+    </file>
+    <file name="pasted svg 109469x218_poster_.png" crc="4101665915" ref="service"/>
+    <file name="pasted-svg-106018x216.svg" crc="4158136759" seo="true" ref="service:energoaudit">
+      <caption webpage="energoaudit" alt=""/>
+      <caption webpage="service" alt=""/>
+    </file>
+    <file name="pasted svg 106018x216_poster_.png" crc="101741256" ref="service"/>
+    <file name="pasted-svg-127266x210.svg" crc="425087632" seo="true" ref="service:standarts">
+      <caption webpage="standarts" alt=""/>
+      <caption webpage="service" alt=""/>
+    </file>
+    <file name="pasted svg 127266x210_poster_.png" crc="350063313" ref="service"/>
+    <file name="pasted-svg-110729x224.svg" crc="513416299" seo="true" ref="service:research">
+      <caption webpage="research" alt=""/>
+      <caption webpage="service" alt=""/>
+    </file>
+    <file name="pasted svg 110729x224_poster_.png" crc="459351219" ref="service"/>
+    <file name="pasted-svg-189008x57.svg" crc="4101100071" seo="true" ref="clients">
+      <caption webpage="clients" alt=""/>
+    </file>
+    <file name="pasted svg 189008x57_poster_.png" crc="451626949" ref="clients"/>
+    <file name="pasted-svg-155255x97.svg" crc="4067991702" seo="true" ref="clients">
+      <caption webpage="clients" alt=""/>
+    </file>
+    <file name="pasted svg 155255x97_poster_.png" crc="271179797" ref="clients"/>
+    <file name="pasted-svg-77474x89.svg" crc="4071622506" seo="true" ref="clients:progress-energo">
+      <caption webpage="clients" alt=""/>
+      <caption webpage="progress-energo" alt=""/>
+    </file>
+    <file name="pasted svg 77474x89_poster_.png" crc="4212795074" ref="clients"/>
+    <file name="pasted-svg-943x89.svg" crc="4109445808" seo="true" ref="clients:omk-project">
+      <caption webpage="clients" alt=""/>
+      <caption webpage="omk-project" alt=""/>
+    </file>
+    <file name="pasted svg 943x89_poster_.png" crc="92141504" ref="clients"/>
+    <file name="pasted-svg-41368x51.svg" crc="4169617862" seo="true" ref="clients">
+      <caption webpage="clients" alt=""/>
+    </file>
+    <file name="pasted svg 41368x51_poster_.png" crc="103607638" ref="clients"/>
+    <file name="pasted-svg-58603x78.svg" crc="3771095002" seo="true" ref="clients">
+      <caption webpage="clients" alt=""/>
+    </file>
+    <file name="pasted svg 58603x78_poster_.png" crc="462476805" ref="clients"/>
+    <file name="pasted-svg-127265x210.svg" crc="515644864" seo="true" ref="contacts">
+      <caption webpage="contacts" alt=""/>
+    </file>
+    <file name="pasted svg 127265x210_poster_.png" crc="151339188" ref="contacts"/>
+    <file name="pasted-svg-64992x98.svg" crc="300892859" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="pasted svg 64992x98_poster_.png" crc="3925743812" ref="projects"/>
+    <file name="pasted-svg-64992x982.svg" crc="4002945474" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="pasted svg 64992x98_poster_2.png" crc="283007528" ref="projects"/>
+    <file name="pasted-svg-309555x94.svg" crc="203184647" seo="true" ref="rn-energo">
+      <caption webpage="rn-energo" alt=""/>
+    </file>
+    <file name="pasted svg 309555x94_poster_.png" crc="102905850" ref="rn-energo"/>
+    <file name="pasted-svg-155255x972.svg" crc="4067991702" seo="true" ref="siberian-entc">
+      <caption webpage="siberian-entc" alt=""/>
+    </file>
+    <file name="pasted svg 155255x97_poster_2.png" crc="68175862" ref="siberian-entc"/>
+    <file name="pasted-svg-215161x78.svg" crc="139766728" seo="true" ref="ice-povolgye">
+      <caption webpage="ice-povolgye" alt=""/>
+    </file>
+    <file name="pasted svg 215161x78_poster_.png" crc="3824886057" ref="ice-povolgye"/>
+    <file name="pasted-svg-41368x512.svg" crc="4169617862" seo="true" ref="cir-1:cir-2">
+      <caption webpage="cir-2" alt=""/>
+      <caption webpage="cir-1" alt=""/>
+    </file>
+    <file name="pasted svg 41368x51_poster_2.png" crc="4256109708" ref="cir-1"/>
+  </folder>
+  <file name="index.html" crc="4084802913" seo="true" mt="1490604061927" redirect="true"/>
+  <file name="about.html" crc="241170201" seo="true" mt="1490604061927" redirect="true"/>
+  <file name="news.html" crc="362507961" seo="true" mt="1490604061927" redirect="true"/>
+  <file name="service.html" crc="72895701" seo="true" mt="1490604061927" redirect="true"/>
+  <file name="clients.html" crc="413366269" seo="true" mt="1490604061927" redirect="true"/>
+  <file name="contacts.html" crc="3814570438" seo="true" mt="1490604121926" redirect="true"/>
+  <file name="projects.html" crc="350005943" seo="true" mt="1490604061927" redirect="true"/>
+  <file name="rn-energo.html" crc="23068772" seo="true" mt="1490604061927" redirect="true"/>
+  <file name="siberian-entc.html" crc="4119808511" seo="true" mt="1490604061927" redirect="true"/>
+  <file name="progress-energo.html" crc="4088510817" seo="true" mt="1490604061927" redirect="true"/>
+  <file name="omk-project.html" crc="478268881" seo="true" mt="1490604061927" redirect="true"/>
+  <file name="ice-povolgye.html" crc="4065581714" seo="true" mt="1490604061927" redirect="true"/>
+  <file name="cir-mei.html" crc="3971955456" seo="true" mt="1490604061927" redirect="true"/>
+  <file name="cir-1.html" crc="4026907447" seo="true" mt="1490604061927" redirect="true"/>
+  <file name="cir-2.html" crc="252468702" seo="true" mt="1490604061927" redirect="true"/>
+  <file name="torin.html" crc="3914557825" seo="true" mt="1490604061927" redirect="true"/>
+  <file name="meridian-energo-1.html" crc="3792353245" seo="true" mt="1490604061927" redirect="true"/>
+  <file name="meridian-energo-2.html" crc="485642112" seo="true" mt="1490604061927" redirect="true"/>
+  <file name="research.html" crc="3768264008" seo="true" mt="1490604061927" redirect="true"/>
+  <file name="standarts.html" crc="3835201042" seo="true" mt="1490604061927" redirect="true"/>
+  <file name="energoaudit.html" crc="4269324909" seo="true" mt="1490604061927" redirect="true"/>
+  <file name="development.html" crc="206762932" seo="true" mt="1490604061927" redirect="true"/>
+  <file name="engineer.html" crc="4235965382" seo="true" mt="1490604061927" redirect="true"/>
+  <file name="preproject.html" crc="226357087" seo="true" mt="1490604061927" redirect="true"/>
+  <file name="project.html" crc="307771958" seo="true" mt="1490604061927" redirect="true"/>
+</manifest>
